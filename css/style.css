@@ -1,45 +1,45 @@
 body {
-	background-color: #0EBA74;
+	background-color: #F3F3F3;
 }
 
 h1 {
 	text-align: center;
-	color: white;
+	color: #4F4F4F;
 }
 
 h2 {
 	text-align: center;
-	color: white;
+	color: #4F4F4F;
 }
 
 h3 {
 	text-align: center;
-	color: white;
+	color: #4F4F4F;
 }
 
 pre {
 	text-align: center;
-	color: white;
+	color: #4F4F4F;
 }
 
 p {
 	text-align: center;
-	color: white;
+	color: #4F4F4F;
 }
 
 a:link {
-	color: white;
+	color: #4F4F4F;
 	text-decoration:none
 }
 
 a:visited {
-	color:white;
+	color:#4F4F4F;
 }
 
 a:hover {
-	color:white;
+	color:#4F4F4F;
 }
 
 a:active {
-	color:white;
+	color:#4F4F4F;
 }
